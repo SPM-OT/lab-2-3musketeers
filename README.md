@@ -1,4 +1,4 @@
-# lab-2-DAJ-Group
+# lab-2-Group8
 **Lab 2**
 <br>*Group Members*</br>
 Darren Constantine - 100782701</br>
